@@ -117,8 +117,7 @@ The current mission is to earn the fundamentals before claiming the title.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Christ-Cnoa&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy-nine-lovat.vercel.app/?username=Christ-Cnoa&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
