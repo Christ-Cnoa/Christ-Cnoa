@@ -99,13 +99,13 @@ The current mission is to earn the fundamentals before claiming the title.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Christ-Cnoa&show_icons=true&bg_color=231912&title_color=C68E58&text_color=E6D2B5&icon_color=C68E58&border_color=3E2723&count_private=true&hide_border=false" />
+<img height="165" src="https://github-readme-stats-noa.vercel.app/api?username=Christ-Cnoa&show_icons=true&bg_color=231912&title_color=C68E58&text_color=E6D2B5&icon_color=C68E58&border_color=3E2723&count_private=true&hide_border=false" />
 &nbsp;
 <img height="165" src="https://streak-stats.demolab.com/?user=Christ-Cnoa&background=231912&border=3E2723&stroke=3E2723&ring=C68E58&fire=C68E58&currStreakNum=E6D2B5&sideNums=E6D2B5&currStreakLabel=C68E58&sideLabels=C68E58&dates=E6D2B5&hide_border=false" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christ-Cnoa&layout=compact&bg_color=231912&title_color=C68E58&text_color=E6D2B5&border_color=3E2723&hide_border=false&langs_count=6" />
+<img src="https://github-readme-stats-noa.vercel.app/api/top-langs/?username=Christ-Cnoa&show_icons=true&layout=compact&bg_color=231912&title_color=C68E58&text_color=E6D2B5&border_color=3E2723&hide_border=false&langs_count=6" />
 
 <br/><br/>
 
