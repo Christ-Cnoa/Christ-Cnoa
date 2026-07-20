@@ -124,14 +124,6 @@ The current mission is to earn the fundamentals before claiming the title.
 
 <div align="center">
 
-<!-- 
-  SNAKE ANIMATION — One-time setup required:
-  1. Create the file: .github/workflows/snake.yml
-  2. Paste the contents from snake-workflow.yml (provided separately)
-  3. Run the action once manually from the Actions tab
-  After that, this line below will render the snake automatically:
--->
-
 <img src="https://raw.githubusercontent.com/Christ-Cnoa/Christ-Cnoa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
